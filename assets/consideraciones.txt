@@ -1,0 +1,17 @@
+Este es un csv regular. Yo espero formar una base de datos. Escribir las tablas en un formato SQL. 
+
+datos de: 
+https://www.kaggle.com/datasets/adityarajsrv/job-descriptions-2025-tech-and-non-tech-roles
+
+objetivo general: 
+Conocer datos clave sobre roles tech y, secundariamente no tech. 
+
+Demostrar habilidades SQL. 
+Objetivos específicos:
+1. Demostrar habilidades SQL.
+    Crear bases de datos y manipularlas. 
+    Queries con filtros, ordenamientos. 
+    Queries con agrupamientos y agregados. 
+    Uniones. 
+    Búsqueda de patrones y operaciones con cadenas. 
+
